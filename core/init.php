@@ -4,9 +4,9 @@ header('X-Frame-Options : DENY') ;
 $GLOBALS['config'] = array(
 	'mysql' => array(
 		'host' => '127.0.0.1',
-		'username' => 'root',
-		'password' => '',
-		'db' => 'blog'
+		'username' => 'db_user',
+		'password' => 'db_pass',
+		'db' => 'db_name'
 		),
 	'remember' => array(
 		'cookie_name' => 'hash',

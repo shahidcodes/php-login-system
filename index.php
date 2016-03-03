@@ -9,8 +9,9 @@ require_once 'core/init.php';
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Login Registration Script | #1337kh4n Blog</title>
-    <meta name="description" content="A Login Registration System Script Written In OOP From Scratch By #1337kh4n">
-    <meta name="keywords" content="A Login Registration System Script Written In OOP From Scratch By #1337kh4n, #ultimate_hackers">
+    <meta name="description" content="A Login Registration System Script Written In OOP From Scratch By Shahid Khan">
+    <meta name="keywords" content="A Login Registration System Script Written In OOP From Scratch By Shahid khan">
+    <meta name="author" content="Shahid Khan">
 	<link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css">
 	<style type="text/css">
 	.col-md-8 {
@@ -38,15 +39,8 @@ require_once 'core/init.php';
 	<!-- Content -->
 	<div class="col-md-8">
 		<content>
-		<p><kbd>Objectives:</kbd></p>
-		<ul class="list-unstyled">
-			<kbd>#Level1: </kbd><li>Find Any Unusual Bug Such As FPD, Directory Listing Etc</li>
-			<kbd>#Level2: </kbd><li>Find Any Client Side Vuln.</li>
-			<kbd>#Level3: </kbd><li>Find Any SQL Injection</li>
-			<kbd>#Level4: </kbd><li>Shell It</li>
-		</ul>
-		<pre>PM Your Work [ fb.com/1337kh4n ]</pre>
-        <h3><a href="hof.php">:D Leets | Hof</a></h3>
+		<a class="btn btn-primary" href="login.php">Login</a>
+		<a class="btn btn-success" href="register.php">Register</a>
 		</content>
 	</div>
 	<!-- Footer -->
