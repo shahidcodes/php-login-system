@@ -8,4 +8,4 @@ A Simple Login And Registration System in Php OOP. You can easily integrate to y
 
 <b> Else is there for some reason</b>
 
-<code>For Noobs: Put creds in init.php and execute</code> :D
+<code>Put creds in init.php and execute</code> :D
